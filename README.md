@@ -1,5 +1,5 @@
 # PYTHON-FINALPROJECT
-Azimov Talantbek
+Azimov Talantbek and
 Suborov Akzhol
 
 Our project about pong game. 
